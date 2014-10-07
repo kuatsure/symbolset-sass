@@ -2,7 +2,7 @@
   "name": "symbolset-sass",
   "description": "Sass mixins for the Symbolset libraries.",
   "author": "Jarrett Drouillard <jarrett@thestyl.us>",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "keywords": [
     "css",
     "sass",
