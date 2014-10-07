@@ -1,0 +1,15 @@
+{
+  "name": "symbolset-css",
+  "author": {
+    "name": "Jarrett Drouillard",
+    "email": "jarrett@thestyl.us"
+  },
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "load-grunt-tasks": "~0.4.0",
+    "time-grunt": "~0.2.0",
+    "grunt-bump": "~0.0.14"
+  }
+}

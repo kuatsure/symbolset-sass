@@ -1,0 +1,24 @@
+{
+  "name": "symbolset-sass",
+  "description": "Sass mixins for the Symbolset libraries.",
+  "author": "Jarrett Drouillard <jarrett@thestyl.us>",
+  "version": "0.0.0",
+  "keywords": [
+    "css",
+    "sass",
+    "symbolset",
+    "iconfonts",
+    "icon",
+    "font"
+  ],
+  "dependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Gruntfile.coffee",
+    "package.json"
+  ]
+}
