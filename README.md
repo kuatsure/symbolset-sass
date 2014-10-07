@@ -37,3 +37,8 @@ $ bower install symbolset-sass -S
 ## Contributing
 
 I'm always looking for new libraries to flesh this out. Ideally I'd love to have them all. So if you can contribute a lib, please submit a pr against this with the branch name as the library name. Thanks!
+
+## Sister Projects
+
+* [symbolset-all](https://github.com/kuatsure/symbolset-all) - installs all Symbolset components
+* [symbolset-js](https://github.com/kuatsure/symbolset-js) - installs js files for Symbolset components
