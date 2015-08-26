@@ -33,6 +33,7 @@ $ bower install symbolset-sass -S
 * Standard - `@include ss-standard();`
 * Social Regular - `@include ss-social-regular();`
 * Social Circle - `@include ss-social-circle();`
+* Symbolicons Line - `@include ss-symbolicons-line();`
 
 ## Contributing
 
